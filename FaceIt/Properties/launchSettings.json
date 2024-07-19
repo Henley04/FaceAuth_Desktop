@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FaceIt (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "FaceIt (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
